@@ -5,3 +5,4 @@
 #"distance prediction" file preedicts the distance from the origin from the initial coin orientation
 #"80% of datapoints" file shows the region where data points are concentrated.
 #"report" file is the report of the final exam
+#Jupyter notebook files can be run by placing them in the same folder as the excel file "coin toss".
